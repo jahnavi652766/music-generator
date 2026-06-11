@@ -221,7 +221,7 @@ Songs are stored in Recent Songs and Liked Songs sections.
 
 ## 🧑‍💻 Author
 
-👩‍💻 Amala Kanaparthi
+👩‍💻 Jahnavi Katragadda
 
 Fourth-Year Engineering Student | Passionate about Artificial Intelligence, Music Technology, and Full Stack Development
 
